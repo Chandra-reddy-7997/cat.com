@@ -1,0 +1,28 @@
+img{
+    width: 100px;
+    height: 100px;
+  
+}
+.cat{
+    color: aqua;
+    font-size: large;
+    background-color: rgba(232, 5, 5, 0.681);
+    
+   
+    
+}
+.dog{
+    color: rgb(17, 225, 225);
+    font-size: large;
+    background-color: black;
+    float: right;
+
+    
+}
+footer{
+    
+    color: red;
+    background-color: black;
+    text-align: center;
+    
+}
